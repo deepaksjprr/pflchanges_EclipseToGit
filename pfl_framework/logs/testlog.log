@@ -1,0 +1,1029 @@
+2019-04-27 23:33:39,916 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-27 23:33:44,900 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-28 13:01:19,927 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-28 13:01:24,326 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-28 13:01:33,063 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-28 13:01:33,172 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:01:33,173 - com.pfl.automation.utils.Log -INFO - ------------------                 TS1_Verify_administration_tiles       -------------------------
+2019-04-28 13:01:33,191 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:01:33,848 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:01:34,181 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:01:34,181 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:02:11,640 - com.pfl.automation.utils.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-28 13:02:11,640 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:02:11,640 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:02:15,325 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:15,325 - com.pfl.automation.utils.Log -INFO - ------------------                 TS_08_01_Verify_the_header_SwagIQ_Licenses_Administration_of_License_tab       -------------------------
+2019-04-28 13:02:15,326 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:15,811 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:15,812 - com.pfl.automation.utils.Log -INFO - ------------------                 TS1_Verify_license_UI       -------------------------
+2019-04-28 13:02:15,812 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:16,357 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:16,358 - com.pfl.automation.utils.Log -INFO - ------------------                 TS12_01_Verify_clicking_select_all_enabled_checkbox_on_Licenses_page_functionality       -------------------------
+2019-04-28 13:02:16,359 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:16,845 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:16,846 - com.pfl.automation.utils.Log -INFO - ------------------                 TS_13_01_Verify_Product_Configuration_Display_Name_or_Quantity_Under_Product_Administration       -------------------------
+2019-04-28 13:02:16,847 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:17,798 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:17,798 - com.pfl.automation.utils.Log -INFO - ------------------                 TS_15_01_Verify_that_validation_message_displayed_to_user_if_no_program_is_associated_to_user_on_send_swag_screen       -------------------------
+2019-04-28 13:02:17,798 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:18,287 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:18,289 - com.pfl.automation.utils.Log -INFO - ------------------                 TS16_Contact_length_validation_on_custom_address       -------------------------
+2019-04-28 13:02:18,290 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:18,801 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:18,802 - com.pfl.automation.utils.Log -INFO - ------------------                 TC17_01_Verify_User_not_able_Send_Swag_Do_Not_Swag_field_enabled_for_Contact       -------------------------
+2019-04-28 13:02:18,802 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:19,410 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:19,411 - com.pfl.automation.utils.Log -INFO - ------------------                 TS_20_01_Verify_validation_message_displayed_user_if_no_program_associated_to_user_on_send_swag_screen       -------------------------
+2019-04-28 13:02:19,412 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:20,464 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:20,464 - com.pfl.automation.utils.Log -INFO - ------------------                 TS_22_01_Verifying_Active_State_of_Product_on_Product_Administration       -------------------------
+2019-04-28 13:02:20,464 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:02:24,989 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-28 13:15:08,220 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-28 13:15:12,683 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-28 13:15:22,325 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-28 13:15:22,439 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:15:22,440 - com.pfl.automation.utils.Log -INFO - ------------------                 TS1_Verify_administration_tiles       -------------------------
+2019-04-28 13:15:22,441 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:15:23,488 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:15:23,892 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:15:23,893 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:16:03,319 - com.pfl.automation.utils.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-28 13:16:03,319 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:16:03,320 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:16:03,971 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:16:03,972 - com.pfl.automation.utils.Log -INFO - ------------------                 TS2_Verify_presence_of_different_components_on_Program_administration_page       -------------------------
+2019-04-28 13:16:03,972 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:16:04,510 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:16:04,929 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:16:04,929 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:16:33,118 - com.pfl.automation.utils.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-28 13:16:33,119 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:16:33,119 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:16:33,648 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:16:33,648 - com.pfl.automation.utils.Log -INFO - ------------------                 TS3_Verify_presence_of_different_components_on_User_administration_page       -------------------------
+2019-04-28 13:16:33,648 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:16:34,044 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:16:34,258 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:16:34,258 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:17:03,234 - com.pfl.automation.utils.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-28 13:17:03,234 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:17:03,235 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:17:03,965 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:17:03,965 - com.pfl.automation.utils.Log -INFO - ------------------                 TS4_Verify_presence_of_different_components_on_Product_administration_page       -------------------------
+2019-04-28 13:17:03,966 - com.pfl.automation.utils.Log -INFO - ****************************************************************************************
+2019-04-28 13:17:04,423 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:17:04,696 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:17:04,696 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:17:33,120 - com.pfl.automation.utils.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-28 13:17:33,120 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:17:33,120 - com.pfl.automation.utils.Log -INFO - X
+2019-04-28 13:17:34,893 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-28 13:17:44,975 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-28 13:17:49,267 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-28 13:17:58,277 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-28 13:17:59,082 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:17:59,544 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:17:59,545 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:19:03,003 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-28 13:19:39,166 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-28 13:19:43,676 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-28 13:19:54,600 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-28 13:19:55,820 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 13:19:56,162 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 13:19:56,162 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 13:23:52,347 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-28 23:37:46,353 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-28 23:37:51,657 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-28 23:38:01,613 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-28 23:38:02,557 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-28 23:38:02,822 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-28 23:38:02,822 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-28 23:38:20,929 - com.pfl.automation.utils.Log -INFO - Clicking on User Administration 
+2019-04-28 23:38:44,204 - com.pfl.automation.utils.Log -INFO - Searching the User Name 
+2019-04-28 23:40:36,456 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 11:35:54,185 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:19:10,911 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:19:15,314 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:20:31,048 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:20:35,030 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:20:40,924 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:20:42,019 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:20:42,282 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:20:42,282 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:21:16,025 - com.pfl.automation.utils.Log -INFO - Clicking on User Administration 
+2019-04-29 13:21:34,304 - com.pfl.automation.utils.Log -INFO - Searching the User Name 
+2019-04-29 13:23:26,171 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 13:26:08,996 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:26:12,642 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:26:18,312 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:26:18,932 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:26:19,216 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:26:19,216 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:27:17,520 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 13:30:05,752 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:30:09,329 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:30:16,650 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:30:17,609 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:30:17,934 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:30:17,934 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:31:08,663 - com.pfl.automation.utils.Log -INFO - Clicking on User Administration 
+2019-04-29 13:31:26,263 - com.pfl.automation.utils.Log -INFO - Searching the User Name 
+2019-04-29 13:31:26,708 - com.pfl.automation.utils.Log -INFO - Clicking on User detail 
+2019-04-29 13:33:59,204 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 13:43:55,000 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:43:59,127 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:44:05,495 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:44:06,590 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:44:06,852 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:44:06,852 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:44:35,079 - com.pfl.automation.utils.Log -INFO - Clicking on User Administration 
+2019-04-29 13:44:51,749 - com.pfl.automation.utils.Log -INFO - Searching the User Name 
+2019-04-29 13:44:52,254 - com.pfl.automation.utils.Log -INFO - Clicking on User detail 
+2019-04-29 13:45:48,659 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:45:52,863 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:45:59,919 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:46:00,583 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:46:00,822 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:46:00,823 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:46:34,188 - com.pfl.automation.utils.Log -INFO - Clicking on User Administration 
+2019-04-29 13:46:50,016 - com.pfl.automation.utils.Log -INFO - Searching the User Name 
+2019-04-29 13:46:50,498 - com.pfl.automation.utils.Log -INFO - Clicking on User detail 
+2019-04-29 13:48:25,244 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:48:29,145 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:48:35,110 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:48:36,091 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:48:36,377 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:48:36,377 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:49:06,257 - com.pfl.automation.utils.Log -INFO - Clicking on User Administration 
+2019-04-29 13:49:24,119 - com.pfl.automation.utils.Log -INFO - Searching the User Name 
+2019-04-29 13:49:29,667 - com.pfl.automation.utils.Log -INFO - Clicking on User detail 
+2019-04-29 13:49:35,039 - com.pfl.automation.utils.Log -INFO - Clicking on Remove Button from Store 
+2019-04-29 13:51:42,338 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 13:58:45,427 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 13:58:49,150 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 13:58:55,511 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 13:58:56,051 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 13:58:56,303 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 13:58:56,303 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 13:59:42,611 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 14:05:17,123 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 14:05:20,724 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 14:05:26,887 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 14:05:27,414 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 14:05:27,624 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 14:05:27,625 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 14:06:17,466 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 14:17:10,264 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 14:17:13,886 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 14:17:20,088 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 14:17:20,671 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 14:17:20,914 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 14:17:20,914 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 14:18:10,979 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 15:32:14,957 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 15:32:18,667 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 15:32:24,593 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 15:32:25,182 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 15:32:25,420 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 15:32:25,421 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 15:33:13,652 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 15:42:38,789 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 15:42:42,469 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 15:42:49,235 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 15:42:49,943 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 15:42:50,314 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 15:42:50,314 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 15:43:34,724 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 15:49:42,430 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 15:49:46,025 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 15:49:52,577 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 15:49:53,096 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 15:49:53,347 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 15:49:53,347 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 15:50:48,655 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 15:51:23,655 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 15:51:27,269 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 15:51:33,494 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 15:51:34,290 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 15:51:34,511 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 15:51:34,511 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 16:24:02,688 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 16:24:06,287 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 16:24:12,614 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 16:24:13,332 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 16:24:13,592 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 16:24:13,592 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 16:30:26,545 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 16:30:30,895 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 16:30:37,453 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 16:30:38,069 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 16:30:38,343 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 16:30:38,344 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 16:35:07,859 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 16:38:34,568 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 16:38:38,368 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 16:38:45,026 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 16:38:45,621 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 16:38:45,895 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 16:38:45,895 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 16:43:08,571 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 17:22:56,923 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 17:23:00,652 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 17:23:08,182 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 17:23:08,764 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:23:09,036 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:23:09,036 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 17:27:44,741 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 17:28:08,771 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 17:28:12,340 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 17:28:18,437 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 17:28:19,099 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:28:19,350 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:28:19,350 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 17:30:10,848 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:30:11,031 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:30:11,031 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 17:32:41,157 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 17:33:03,889 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 17:33:07,580 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 17:33:13,598 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 17:33:14,209 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:33:14,487 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:33:14,487 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 17:35:10,657 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:35:10,859 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:35:10,859 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 17:37:33,288 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 17:55:17,891 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 17:55:21,741 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 17:55:27,280 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 17:55:28,219 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:55:28,473 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:55:28,473 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 17:58:04,934 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 17:58:05,114 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 17:58:05,114 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:00:31,436 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 18:15:07,081 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 18:15:10,502 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 18:15:17,668 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 18:15:18,493 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 18:15:18,711 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 18:15:18,711 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:17:16,444 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 18:17:16,630 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 18:17:16,630 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:19:28,501 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 18:19:32,106 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 18:19:38,127 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 18:19:38,752 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 18:19:38,995 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 18:19:38,995 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:21:37,059 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 18:21:37,241 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 18:21:37,242 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:23:08,862 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 18:23:12,455 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 18:23:18,366 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 18:23:18,945 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 18:23:19,209 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 18:23:19,209 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:25:12,728 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 18:25:12,927 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 18:25:12,927 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 18:27:38,730 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-29 19:29:31,731 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-29 19:29:35,843 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-29 19:29:48,431 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-29 19:29:49,013 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 19:29:49,250 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 19:29:49,250 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 19:32:20,987 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-29 19:32:21,237 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-29 19:32:21,237 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-29 19:34:53,077 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 11:29:15,565 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 11:29:20,067 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 11:29:22,151 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 11:30:09,757 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 11:30:13,983 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 11:31:41,013 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 11:31:41,488 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 11:31:41,763 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 11:31:41,764 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 11:34:17,821 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 11:34:18,020 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 11:34:18,020 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 12:08:48,280 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 12:47:39,986 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 12:47:44,953 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 12:47:51,796 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 12:47:52,412 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 12:47:52,664 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 12:47:52,664 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 12:49:46,673 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 12:49:46,861 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 12:49:46,861 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 12:53:15,938 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 12:56:02,347 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 12:56:05,889 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 12:56:12,557 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 12:56:13,073 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 12:56:13,432 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 12:56:13,433 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 12:57:03,140 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 12:57:47,918 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 12:57:51,554 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 12:57:59,272 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 12:57:59,800 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 12:58:00,115 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 12:58:00,115 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 12:59:56,385 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 12:59:56,584 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 12:59:56,584 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:02:22,877 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 13:05:10,525 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 13:05:14,194 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 13:05:20,969 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 13:05:21,582 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:05:21,832 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:05:21,833 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:07:12,631 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:07:12,809 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:07:12,810 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:08:04,772 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:08:04,988 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:08:04,988 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:09:41,941 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 13:09:45,494 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 13:09:52,857 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 13:09:53,430 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:09:53,668 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:09:53,668 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:11:46,205 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:11:46,387 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:11:46,387 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:12:25,741 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:12:25,916 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:12:25,916 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:13:10,758 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:13:10,937 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:13:10,937 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:13:34,578 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 13:15:43,564 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 13:15:46,982 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 13:15:54,005 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 13:15:54,524 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:15:54,742 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:15:54,742 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:16:53,951 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 13:42:08,918 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 13:42:12,366 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 13:42:18,701 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 13:42:19,182 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:42:19,423 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:42:19,423 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:44:24,038 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:44:24,205 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:44:24,205 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:45:54,902 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 13:48:10,142 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 13:48:13,659 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 13:48:19,732 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 13:48:20,284 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:48:20,540 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:48:20,540 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:50:27,971 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:50:28,150 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:50:28,151 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:51:09,000 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:51:09,178 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:51:09,179 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:51:34,779 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 13:54:54,661 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 13:54:58,156 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 13:55:04,799 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 13:55:05,319 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 13:55:05,574 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 13:55:05,574 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 13:59:17,682 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 14:04:50,811 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 14:04:54,395 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 14:05:02,161 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 14:05:02,673 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:05:02,952 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:05:02,952 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:07:53,488 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:07:53,680 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:07:53,680 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:09:39,786 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 14:09:43,259 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 14:09:50,160 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 14:09:50,667 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:09:50,910 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:09:50,911 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:12:25,759 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:12:25,922 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:12:25,922 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:14:39,915 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 14:15:21,289 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 14:15:24,793 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 14:15:31,319 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 14:15:31,835 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:15:32,070 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:15:32,070 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:18:04,490 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:18:04,670 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:18:04,670 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:19:30,783 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:19:31,008 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:19:31,008 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:19:55,381 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 14:22:41,402 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 14:22:45,176 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 14:22:50,635 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 14:22:51,226 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:22:51,454 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:22:51,454 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:25:35,178 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:25:35,380 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:25:35,380 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:28:06,115 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 14:46:48,902 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 14:46:52,498 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 14:46:58,755 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 14:46:59,283 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:46:59,518 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:46:59,518 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:49:41,065 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 14:49:41,260 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 14:49:41,260 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 14:52:07,530 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 15:10:55,659 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 15:10:59,223 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 15:11:08,186 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 15:11:08,717 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:11:08,936 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:11:08,936 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:14:05,843 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:14:06,016 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:14:06,016 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:16:32,796 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 15:16:36,207 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 15:16:43,840 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 15:16:44,354 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:16:44,583 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:16:44,583 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:19:23,694 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:19:23,872 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:19:23,872 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:21:24,105 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 15:22:11,834 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 15:22:15,170 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 15:22:22,741 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 15:22:23,322 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:22:23,594 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:22:23,594 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:25:04,141 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:25:04,325 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:25:04,325 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:26:11,242 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:26:11,432 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:26:11,432 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:26:34,554 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 15:28:53,751 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 15:28:57,292 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 15:29:05,530 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 15:29:06,167 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:29:06,439 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:29:06,440 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:31:49,117 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:31:49,306 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:31:49,306 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:33:01,972 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:33:02,147 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:33:02,148 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:33:30,683 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 15:47:25,315 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 15:47:29,035 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 15:47:35,730 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 15:47:36,244 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:47:36,489 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:47:36,489 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:49:40,838 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:49:41,010 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:49:41,010 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:50:33,538 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:50:33,732 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:50:33,732 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:50:59,522 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-04-30 15:51:37,374 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-04-30 15:51:40,864 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-04-30 15:51:46,806 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-04-30 15:51:47,321 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:51:47,524 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:51:47,524 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:53:42,494 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:53:42,684 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:53:42,684 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:54:31,249 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-04-30 15:54:31,429 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-04-30 15:54:31,429 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-04-30 15:54:58,758 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 12:35:50,235 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 12:35:54,273 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 12:36:00,829 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 12:36:01,741 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 12:36:01,988 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 12:36:01,988 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 12:39:00,075 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 12:40:39,179 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 12:40:43,095 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 12:40:51,593 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 12:40:52,173 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 12:40:52,408 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 12:40:52,409 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 12:42:39,234 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 12:42:42,976 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 12:42:49,485 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 12:42:49,963 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 12:42:50,234 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 12:42:50,234 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 12:45:42,842 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 13:01:33,361 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:01:37,037 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:01:43,813 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:01:44,365 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:01:44,618 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:01:44,618 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:05:39,149 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 13:18:07,233 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:18:10,896 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:18:18,342 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:18:18,850 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:18:19,073 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:18:19,073 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:21:37,756 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 13:25:26,370 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:25:30,025 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:25:37,034 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:25:37,562 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:25:37,830 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:25:37,830 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:27:20,969 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:27:24,626 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:27:30,509 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:27:31,126 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:27:31,375 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:27:31,376 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:37:35,679 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:37:39,313 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:37:45,439 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:37:46,014 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:37:46,229 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:37:46,230 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:40:44,426 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:40:48,098 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:40:54,481 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:40:55,039 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:40:55,275 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:40:55,275 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:44:49,290 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:44:52,950 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:44:59,452 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:44:59,994 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:45:00,252 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:45:00,253 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:54:16,503 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 13:54:20,124 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 13:54:26,109 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 13:54:26,947 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 13:54:27,179 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 13:54:27,179 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 13:57:49,004 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 14:00:12,525 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 14:00:16,303 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 14:00:22,639 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 14:00:23,123 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 14:00:23,334 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 14:00:23,334 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 14:02:43,759 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 14:35:23,960 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 14:35:27,546 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 14:35:34,577 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 14:35:35,170 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 14:35:35,409 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 14:35:35,409 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 14:37:49,184 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 14:47:40,792 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 14:47:44,359 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 14:47:49,323 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 14:49:16,609 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 14:49:20,250 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 14:49:26,305 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 14:52:48,021 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 14:52:51,715 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 14:52:57,826 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 14:52:58,290 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 14:52:58,593 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 14:52:58,593 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 14:55:42,300 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-02 15:08:15,880 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-02 15:08:19,402 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-02 15:08:29,639 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-02 15:08:30,132 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-02 15:08:30,325 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-02 15:08:30,325 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-02 15:11:08,441 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 13:52:21,988 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 13:52:25,426 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 13:52:31,655 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 13:52:32,383 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 13:52:32,611 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 13:52:32,611 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 13:52:54,297 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 13:52:57,820 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 13:53:04,234 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 13:53:04,706 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 13:53:04,924 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 13:53:04,924 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 14:27:53,261 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 16:37:53,852 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 16:37:57,437 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 16:38:04,739 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 16:38:05,214 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 16:38:05,395 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 16:38:05,395 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 16:39:15,396 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 16:42:41,369 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 16:42:44,813 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 16:42:51,917 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 16:42:52,367 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 16:42:52,623 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 16:42:52,623 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 16:43:17,013 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 16:44:12,394 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 16:44:15,731 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 16:44:22,170 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 16:44:22,923 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 16:44:23,084 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 16:44:23,084 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 16:45:35,117 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 16:50:50,036 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 16:50:53,415 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 16:51:01,002 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 16:51:01,513 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 16:51:01,771 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 16:51:01,771 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:01:18,098 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:01:21,674 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:01:29,097 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:01:29,549 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:01:29,766 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:01:29,766 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:02:39,120 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 17:03:34,208 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:03:37,647 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:03:43,578 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:03:44,829 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:03:45,066 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:03:45,067 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:04:58,346 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 17:05:38,039 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:05:41,668 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:05:49,134 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:05:50,004 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:05:50,277 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:05:50,277 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:06:25,538 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 17:09:50,594 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:09:54,176 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:10:00,631 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:10:01,084 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:10:01,350 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:10:01,351 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:11:11,762 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 17:28:06,209 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:28:10,760 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:28:17,624 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:28:18,026 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:28:18,242 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:28:18,242 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:29:22,350 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 17:29:39,371 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:29:42,970 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:29:49,553 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:29:49,964 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:29:50,151 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:29:50,151 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:30:49,647 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 17:40:20,123 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:40:23,480 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:40:32,571 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:40:32,955 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:40:33,161 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:40:33,161 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:42:09,211 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 17:42:12,715 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 17:42:18,370 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 17:42:18,816 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 17:42:19,046 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 17:42:19,046 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 17:42:55,937 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 18:07:04,011 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 18:07:07,510 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 18:07:13,854 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 18:07:14,356 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 18:07:14,574 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 18:07:14,575 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 18:08:17,617 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 18:54:58,061 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 18:55:02,971 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 18:55:08,723 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 18:55:09,149 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 18:55:09,335 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 18:55:09,335 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-03 18:56:43,920 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-03 21:35:21,806 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-03 21:35:25,918 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-03 21:35:33,227 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-03 21:35:33,695 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-03 21:35:33,937 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-03 21:35:33,937 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 13:29:55,089 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 13:29:59,311 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 13:30:07,340 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 13:30:08,337 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 13:30:08,627 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 13:30:08,627 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 13:31:08,729 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 13:39:50,926 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 13:39:54,385 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 13:40:02,556 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 13:40:03,003 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 13:40:03,205 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 13:40:03,205 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 13:41:04,392 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 13:42:49,829 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 13:42:53,399 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 13:43:00,197 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 13:43:00,791 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 13:43:01,053 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 13:43:01,054 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 13:45:05,078 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 15:35:34,760 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 15:35:38,359 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 15:35:44,970 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 15:35:45,475 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 15:35:45,692 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 15:35:45,692 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 15:39:16,022 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 15:39:53,243 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 15:39:56,834 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 15:40:04,875 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 15:40:05,286 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 15:40:05,495 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 15:40:05,496 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 15:42:08,874 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 15:47:46,851 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 15:47:50,483 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 15:47:56,676 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 15:47:57,453 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 15:47:57,660 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 15:47:57,660 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 15:52:00,020 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 15:52:15,830 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 15:52:19,945 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 15:52:27,285 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 15:52:27,736 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 15:52:27,954 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 15:52:27,954 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 15:55:52,138 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 16:13:45,363 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 16:13:48,885 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 16:13:55,514 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 16:13:56,015 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 16:13:56,265 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 16:13:56,265 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 16:16:31,371 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 16:16:31,574 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 16:16:31,574 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 16:17:49,876 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 16:21:15,428 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 16:21:42,501 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 16:21:45,910 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 16:21:53,817 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 16:21:54,292 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 16:21:54,542 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 16:21:54,542 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 16:24:15,117 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 16:24:18,837 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 16:24:26,511 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 16:24:26,981 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 16:24:27,226 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 16:24:27,226 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 16:27:03,123 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 16:27:03,297 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 16:27:03,297 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 16:28:28,773 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:01:28,471 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:01:31,876 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:01:38,618 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:01:39,455 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:01:39,754 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:01:39,755 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:04:04,714 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:04:08,298 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:04:15,246 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:04:15,696 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:04:15,947 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:04:15,947 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:06:46,146 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:06:46,323 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:06:46,323 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:08:09,824 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:08:10,032 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:08:10,033 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:09:39,613 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:11:08,627 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:11:12,129 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:11:20,223 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:11:20,724 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:11:20,928 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:11:20,928 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:13:56,769 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:13:56,949 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:13:56,949 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:15:17,689 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:15:17,853 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:15:17,854 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:17:06,926 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:20:02,712 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:20:06,088 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:20:12,691 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:20:13,160 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:20:13,411 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:20:13,412 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:22:48,191 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:22:48,374 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:22:48,374 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:24:44,823 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:24:48,402 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:24:55,648 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:24:56,131 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:24:56,383 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:24:56,383 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:27:39,245 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:27:39,423 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:27:39,423 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:29:02,275 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:29:02,451 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:29:02,452 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:30:49,898 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:33:56,905 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:34:00,477 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:34:07,541 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:34:08,075 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:34:08,295 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:34:08,295 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:37:01,710 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:37:01,910 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:37:01,910 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:38:50,920 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:42:51,831 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:42:55,390 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:43:06,706 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:43:07,139 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:43:07,368 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:43:07,368 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:43:28,647 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:43:32,073 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:43:37,879 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:43:38,354 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:43:38,565 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:43:38,566 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:44:56,730 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:45:38,040 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:45:41,599 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:45:47,628 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:45:48,401 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:45:48,661 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:45:48,661 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:47:10,671 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:47:39,259 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:47:42,766 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:47:49,319 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:47:49,843 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:47:50,057 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:47:50,057 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:49:04,933 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:49:08,505 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:49:14,603 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:49:15,083 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:49:15,289 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:49:15,290 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:52:03,805 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:52:03,981 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:52:03,981 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:53:36,158 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:53:36,352 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:53:36,352 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 17:55:43,744 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 17:58:44,891 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 17:58:48,382 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 17:58:55,863 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 17:58:56,445 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 17:58:56,744 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 17:58:56,744 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:02:30,769 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:02:34,170 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:02:40,549 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 18:02:41,083 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:02:41,366 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:02:41,366 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:03:14,864 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:03:18,404 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:03:27,326 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:03:30,768 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:03:38,664 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 18:03:39,112 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:03:39,321 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:03:39,321 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:14:06,838 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:14:10,527 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:15:06,783 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:15:10,164 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:15:16,227 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 18:15:17,196 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:15:17,488 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:15:17,488 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:17:39,807 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:17:39,992 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:17:39,993 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:19:24,672 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:19:24,867 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:19:24,867 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:21:30,445 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 18:24:21,814 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:24:25,496 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:24:32,990 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 18:24:33,485 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:24:33,734 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:24:33,735 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:26:37,973 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 18:28:55,481 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:28:59,078 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:29:05,409 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 18:29:05,912 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:29:06,143 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:29:06,143 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:31:14,324 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 18:31:17,851 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 18:31:24,345 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 18:31:24,893 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:31:25,113 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:31:25,114 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:33:44,406 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:33:44,584 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:33:44,585 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:35:13,510 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:35:13,708 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:35:13,708 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:36:37,590 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 18:36:37,774 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 18:36:37,774 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 18:37:51,660 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 19:01:22,319 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 19:01:25,793 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 19:01:32,164 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 19:01:32,642 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:01:32,850 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:01:32,850 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:04:14,662 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 19:04:18,749 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 19:04:25,045 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 19:04:25,537 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:04:25,881 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:04:25,881 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:07:01,894 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:07:02,098 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:07:02,099 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:08:38,005 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:08:38,188 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:08:38,188 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:09:44,735 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully
+2019-05-07 19:09:57,557 - com.pfl.automation.utils.Log -INFO - Open Browser Successfully
+2019-05-07 19:10:00,984 - com.pfl.automation.utils.Log -INFO - Chrome browser initilized Successfully
+2019-05-07 19:10:10,147 - com.pfl.automation.utils.Log -INFO - URL load Successfully
+2019-05-07 19:10:10,631 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:10:10,824 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:10:10,824 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:12:47,498 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:12:47,697 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:12:47,697 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:14:19,101 - com.pfl.automation.utils.Log -INFO - Username entered in the Username text box
+2019-05-07 19:14:19,282 - com.pfl.automation.utils.Log -INFO - Password entered in the Username text box
+2019-05-07 19:14:19,282 - com.pfl.automation.utils.Log -INFO - Click action performed on Submit button
+2019-05-07 19:15:27,796 - com.pfl.automation.utils.Log -INFO - Close Browser Successfully

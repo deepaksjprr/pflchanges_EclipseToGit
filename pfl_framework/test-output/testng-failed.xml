@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.pfl.automation.org62.testcases.TS03_lightning">
+        <methods>
+          <include name="Logout"/>
+          <include name="LogIn"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TS03_02_verifying_account_address_end_swag"/>
+        </methods>
+      </class> <!-- com.pfl.automation.org62.testcases.TS03_lightning -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

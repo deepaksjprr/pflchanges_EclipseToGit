@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Open Browser Successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="330416" started-at="2019-05-07T13:39:57Z" finished-at="2019-05-07T13:45:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="330416" started-at="2019-05-07T13:39:57Z" finished-at="2019-05-07T13:45:27Z">
+      <class name="com.pfl.automation.org62.testcases.TS04_lightning">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="setUp" is-config="true" duration-ms="12784" started-at="2019-05-07T13:39:57Z" finished-at="2019-05-07T13:40:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Open Browser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogIn(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="LogIn" is-config="true" duration-ms="2" started-at="2019-05-07T13:40:10Z" finished-at="2019-05-07T13:40:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=create_setup_program status=SUCCESS method=TS04_lightning.create_setup_program()[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="create_setup_program()[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="create_setup_program" duration-ms="150045" started-at="2019-05-07T13:40:10Z" finished-at="2019-05-07T13:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_setup_program -->
+        <test-method status="PASS" signature="Logout(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="Logout" is-config="true" duration-ms="617" started-at="2019-05-07T13:42:40Z" finished-at="2019-05-07T13:42:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=create_setup_program status=SUCCESS method=TS04_lightning.create_setup_program()[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="verifying_send_swag_with_campaign_association()[pri:1, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="verifying_send_swag_with_campaign_association" duration-ms="93316" started-at="2019-05-07T13:42:40Z" finished-at="2019-05-07T13:44:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifying_send_swag_with_campaign_association -->
+        <test-method status="PASS" signature="LogIn(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="LogIn" is-config="true" duration-ms="0" started-at="2019-05-07T13:42:40Z" finished-at="2019-05-07T13:42:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifying_send_swag_with_campaign_association status=SUCCESS method=TS04_lightning.verifying_send_swag_with_campaign_association()[pri:1, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="Logout(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="Logout" is-config="true" duration-ms="391" started-at="2019-05-07T13:44:14Z" finished-at="2019-05-07T13:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifying_send_swag_with_campaign_association status=SUCCESS method=TS04_lightning.verifying_send_swag_with_campaign_association()[pri:1, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="LogIn(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="LogIn" is-config="true" duration-ms="0" started-at="2019-05-07T13:44:14Z" finished-at="2019-05-07T13:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=delete_order_send_swag status=SUCCESS method=TS04_lightning.delete_order_send_swag()[pri:2, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="delete_order_send_swag()[pri:2, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="delete_order_send_swag" duration-ms="71536" started-at="2019-05-07T13:44:14Z" finished-at="2019-05-07T13:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_order_send_swag -->
+        <test-method status="PASS" signature="Logout(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="Logout" is-config="true" duration-ms="538" started-at="2019-05-07T13:45:26Z" finished-at="2019-05-07T13:45:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=delete_order_send_swag status=SUCCESS method=TS04_lightning.delete_order_send_swag()[pri:2, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pfl.automation.org62.testcases.TS04_lightning@7c29daf3]" name="tearDown" is-config="true" duration-ms="1156" started-at="2019-05-07T13:45:26Z" finished-at="2019-05-07T13:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pfl.automation.org62.testcases.TS04_lightning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
