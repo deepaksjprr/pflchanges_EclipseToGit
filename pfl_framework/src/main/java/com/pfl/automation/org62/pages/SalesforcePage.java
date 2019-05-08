@@ -169,7 +169,7 @@ public class SalesforcePage extends BasePage {
 		By sflt_click_on_tab = By.xpath ("//mark[contains(text(), '"+tabname+"')]");
 		clickElement(driver, sflt_click_on_tab);
 		System.out.println("Tab Clicked successfully");
-		waitForPageToLoad1(driver);
+		//waitForPageToLoad1(driver);
 		System.out.println("page is getting loaded now");
 	}
 	
@@ -289,29 +289,16 @@ public class SalesforcePage extends BasePage {
 	{
 		String program_title = program_name + " - "+ product_name;
 		clickElement(driver, sflt_swag_iq_order_view_all);
+		waitForPageToLoad1(driver);
 		By order_to_delete = By.xpath("(//*[contains(text(), '"+order_status+"')]/ancestor::tr[1]//a[contains(text(), '"+program_title+"')]/ancestor::tr[1]//span[contains(text(), 'Show More')]/..)[1]");
 		clickElement(driver, order_to_delete);
 		By delete_option = By.xpath("//a[contains(@title, 'Delete')]");
 		By delete_option_on_alert = By.xpath("//span[contains(text(), 'Delete')]");
 		By breadcrumb_user = By.xpath("//nav[@aria-label='Breadcrumbs']//span[contains(.,'PFL Auto_Contact')]");
-		
 		clickElement(driver, delete_option);
 		clickElement(driver, delete_option_on_alert);
 		clickElement(driver, breadcrumb_user);
-		
-		//		driver.findElement(By.xpath("(//*[contains(text(), '"+order_status+"')]/ancestor::tr[1]//a[contains(text(), '"+program_title+"')]/ancestor::tr[1]//span[contains(text(), 'Show More')]/..)[1]"));
-
-		//driver.findElement(By.xpath("(//*[contains(text(), '"+order_status+"')]/ancestor::tr[1]//a[contains(text(), '"+program_title+"')]/ancestor::tr[1]//span[contains(text(), 'Show More')]/..)[1]")).click();
-		
-//		find(:xpath, "//a[contains(@title, 'Delete')]").click
-//		find(:xpath, "//span[contains(text(), 'Delete')]",:wait => 20).click
-//		find(:xpath,"//nav[@aria-label='Breadcrumbs']//span[contains(.,'PFL Auto_Contact')]",:wait => 20).click
-		
-//		Scroll_ByVisibleElement(driver, swag_iq_order_related_list_section);
-//		driver.findElement(By.xpath("//td[contains(text(), '"+order_status+"')]/ancestor::tr[1]//a[contains(text(), '"+program_title+"')]/ancestor::tr[1]//a[contains(text(), 'Del')]")).click();
-//		driver.switchTo().alert().accept();
 		System.out.println("Order Deleted successfuly");
-		
 	}
 	
 	public void verify_inactiveprogram_on_contact_send_marketing_page(WebDriver driver,String program_name) throws Exception {
@@ -373,6 +360,24 @@ public class SalesforcePage extends BasePage {
 	}
 	
 	
+	public void sflt_verify_lightning_page(By sflt_app_launcher, By sflt_lightning_icon) throws Exception
+	{
+		boolean status = check_element_visibility(sflt_app_launcher);
+		System.out.println("current status is lightning mode: " +status);
+		if(status==true)
+		{
+			System.out.println("already on lightning");
+			
+			
+		}
+		else
+		{
+			System.out.println("moving to lightning");
+			clickElement(driver, sflt_lightning_icon);
+		}
+	}
+	
+	
 	public void sflt_select_view(String view_name) throws Exception
 	{
 		clickElement(driver, list_view_dropdown_sflt);
@@ -384,6 +389,7 @@ public class SalesforcePage extends BasePage {
 	public void sflt_open_contact(String first_name, String last_name) throws Exception
 	{
 		wait_min();
+		//waitForPageToLoad1(driver);
 		String full_name = first_name + " "+ last_name;
 		System.out.println("full name is : " +full_name);
 		By contact_link = By.xpath("(//a[contains(@title ,'"+full_name+"')])[1]");

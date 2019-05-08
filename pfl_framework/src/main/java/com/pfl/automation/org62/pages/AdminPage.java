@@ -178,6 +178,7 @@ public class AdminPage extends BasePage {
 	
 	public void sflt_click_program_admin_tile() throws Exception 
 	{
+		waitForPageToLoad1(driver);
 		System.out.println("going to click on program admin tile");
 		WebElement sflt_inner_frame = driver.findElement(By.xpath(Constants.sflt_frame));
 		driver.switchTo().frame(sflt_inner_frame);
@@ -511,6 +512,7 @@ public class AdminPage extends BasePage {
 		driver.findElement(By.xpath(add_user_button_prg.replace("$$product_count$$", product_count))).click();
 		System.out.println("clicked on add users button successfully");
 		enterText(driver, search_bar_on_users_page, user_name);
+		waitForPageToLoad1(driver);
 		
 		//WebElement user_displayed = driver.findElement(By.xpath("//td[contains(@title, '" + user_name + "')]/..//input[@type = 'checkbox']"));
 		By user_displayed = By.xpath("//td[contains(@title, '" + user_name + "')]/..//input[@type = 'checkbox']");

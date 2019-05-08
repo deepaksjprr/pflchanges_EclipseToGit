@@ -369,7 +369,7 @@
 		{
 			try
 			{
-				WebDriverWait wait = new WebDriverWait(driver, 30);
+				WebDriverWait wait = new WebDriverWait(driver, 120);
 				//wait.until(ExpectedConditions.visibilityOf(locator));
 				wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
 				return true;

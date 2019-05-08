@@ -24,7 +24,7 @@ public class TS03_lightning extends BaseTest{
 		//create_setup_program		
 		
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);			
 		salsesforcePage.open_tab_lightng(Constants.tab_swagiq_tools);
 		adminpage.sflt_click_program_admin_tile();
 		adminpage.sflt_set_new_program(driver, program_name);
@@ -37,7 +37,7 @@ public class TS03_lightning extends BaseTest{
 	@Test(priority=1, enabled=true)
 	public void TS03_01_verifying_contact_address_send_swag() throws Exception {
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);	
 		salsesforcePage.open_tab_lightng(Constants.tab_contacts);
 		salsesforcePage.sflt_select_view(Constants.pfl_contact_view);
 		salsesforcePage.sflt_open_contact(Constants.con_bd_auto_contact_first_name, Constants.con_bd_auto_contact_last_name);
@@ -58,7 +58,7 @@ public class TS03_lightning extends BaseTest{
 	public void TS03_02_verifying_account_address_end_swag() throws Exception {
 		
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);		
 		salsesforcePage.open_tab_lightng(Constants.tab_contacts);
 		salsesforcePage.sflt_select_view(Constants.pfl_contact_view);
 		salsesforcePage.sflt_open_contact(Constants.con_bd_auto_contact_first_name, Constants.con_bd_auto_contact_last_name);
@@ -78,7 +78,7 @@ public class TS03_lightning extends BaseTest{
 	public void TS03_DataReset() throws Exception {
 		//delete_order_send_swag
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);		
 		salsesforcePage.open_tab_lightng(Constants.tab_contacts);
 		salsesforcePage.sflt_select_view(Constants.pfl_contact_view);
 		salsesforcePage.sflt_open_contact(Constants.con_bd_auto_contact_first_name, Constants.con_bd_auto_contact_last_name);

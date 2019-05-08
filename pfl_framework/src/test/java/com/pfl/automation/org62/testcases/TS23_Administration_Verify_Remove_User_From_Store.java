@@ -2,7 +2,6 @@ package com.pfl.automation.org62.testcases;
 
 import org.testng.annotations.Test;
 import com.pfl.automation.base.BaseTest;
-import com.pfl.automation.org62.pages.UserAdministrationPage;
 import com.pfl.automation.utils.Constants;
 import com.pfl.automation.utils.Log;
 

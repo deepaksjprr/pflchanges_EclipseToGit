@@ -1,9 +1,14 @@
 package com.pfl.automation.utils;
 
+import org.openqa.selenium.By;
+
 public class Constants {
 	
-	public static long PAGE_LOAD_Timeout = 50;
+	public static long PAGE_LOAD_Timeout = 60;
 	public static long IMPLICIT_WAIT = 50;
+	
+	public static By sflt_lightning_icon = By.cssSelector("a.switch-to-lightning");
+	public static By sflt_app_launcher = By.xpath ("//div[contains(@class, 'slds-icon-waffle')]/..");
 	
 	public static String IsLightingEnabled = "False";
 	

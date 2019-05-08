@@ -27,7 +27,7 @@ public class TS04_lightning extends BaseTest{
 	public void create_setup_program() throws Exception {
 		
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);	
 		salsesforcePage.open_tab_lightng(Constants.tab_swagiq_tools);
 		adminpage.sflt_click_program_admin_tile();
 		adminpage.sflt_set_new_program(driver, program_name);
@@ -42,7 +42,7 @@ public class TS04_lightning extends BaseTest{
 	@Test(priority=1, alwaysRun = true)
 	public void verifying_send_swag_with_campaign_association() throws Exception {
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);	
 		salsesforcePage.open_tab_lightng(Constants.tab_contacts);
 		salsesforcePage.sflt_select_view(Constants.pfl_contact_view);
 		salsesforcePage.sflt_open_contact(Constants.con_bd_auto_contact_first_name, Constants.con_bd_auto_contact_last_name);
@@ -61,7 +61,7 @@ public class TS04_lightning extends BaseTest{
 	@Test(priority=2, alwaysRun = true)
 	public void delete_order_send_swag() throws Exception {
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
-		salsesforcePage.verify_lightning_page(sflt_lightning_icon);		
+		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);		
 		salsesforcePage.open_tab_lightng(Constants.tab_contacts);
 		salsesforcePage.sflt_select_view(Constants.pfl_contact_view);
 		salsesforcePage.sflt_open_contact(Constants.con_bd_auto_contact_first_name, Constants.con_bd_auto_contact_last_name);
