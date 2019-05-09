@@ -109,6 +109,7 @@ public class BaseTest {
 	//****************************TestNG Annotations For all Test Cases****************************
 	@BeforeTest
 	public void setUp() throws Exception {
+		callBasicConfigFiles();
 		openBrowser();
 		
 		//testngBrowserlaunch(browserName);
@@ -312,8 +313,6 @@ public class BaseTest {
 	}
 
 	public WebDriver openBrowser() throws FileNotFoundException, IOException, DocumentException {
-		callBasicConfigFiles();
-
 		Log.info("Open Browser Successfully");
 		Reporter.log("Open Browser Successfully");
 
