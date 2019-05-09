@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Open Browser Successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="91624" started-at="2019-05-09T11:39:55Z" finished-at="2019-05-09T11:41:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="91624" started-at="2019-05-09T11:39:55Z" finished-at="2019-05-09T11:41:27Z">
+      <class name="com.pfl.automation.org62.testcases.TS02_lightning">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345]" name="setUp" is-config="true" duration-ms="18103" started-at="2019-05-09T11:39:55Z" finished-at="2019-05-09T11:40:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Open Browser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogIn(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345]" name="LogIn" is-config="true" duration-ms="0" started-at="2019-05-09T11:40:13Z" finished-at="2019-05-09T11:40:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=TS02_lightning.TC01()[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345]" name="TC01" duration-ms="70010" started-at="2019-05-09T11:40:13Z" finished-at="2019-05-09T11:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="Logout(org.testng.ITestResult)[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345]" name="Logout" is-config="true" duration-ms="701" started-at="2019-05-09T11:41:23Z" finished-at="2019-05-09T11:41:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=TS02_lightning.TC01()[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pfl.automation.org62.testcases.TS02_lightning@68bbe345]" name="tearDown" is-config="true" duration-ms="2793" started-at="2019-05-09T11:41:24Z" finished-at="2019-05-09T11:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pfl.automation.org62.testcases.TS02_lightning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

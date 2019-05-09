@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="TestCase5(failed)">
+    <classes>
+      <class name="com.pfl.automation.org62.testcases.TS05_lightning">
+        <methods>
+          <include name="Logout"/>
+          <include name="LogIn"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TS05_DataSet_Reset"/>
+        </methods>
+      </class> <!-- com.pfl.automation.org62.testcases.TS05_lightning -->
+    </classes>
+  </test> <!-- TestCase5(failed) -->
+  <test thread-count="5" name="TestCase3(failed)">
+    <classes>
+      <class name="com.pfl.automation.org62.testcases.TS03_lightning">
+        <methods>
+          <include name="Logout"/>
+          <include name="LogIn"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TS03_DataReset"/>
+        </methods>
+      </class> <!-- com.pfl.automation.org62.testcases.TS03_lightning -->
+    </classes>
+  </test> <!-- TestCase3(failed) -->
+</suite> <!-- Failed suite [Suite] -->
