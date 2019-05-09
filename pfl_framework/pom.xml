@@ -35,7 +35,7 @@
 			<configuration>
 				<suiteXmlFiles>
 					TestNG suite XML files
-					<suiteXmlFile name="SuiteName">testng.xml</suiteXmlFile>
+					<suiteXmlFile name="Suite">testng.xml</suiteXmlFile>
 				</suiteXmlFiles>
 				<configfailurepolicy>continue</configfailurepolicy>
 			</configuration>
