@@ -150,7 +150,7 @@ public class BaseTest {
 				.configure(System.getProperty("user.dir") + Constants.configFolder + Constants.lg4jPropFileName);
 	}
 
-	// init the prop file config
+	// init the prop file
 	public void readConFigFile() {
 		Log.info("Load Property File");
 		// test.log(LogStatus.INFO, "Open Browser Successfully");
