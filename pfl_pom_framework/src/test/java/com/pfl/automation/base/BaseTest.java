@@ -109,6 +109,7 @@ public class BaseTest {
 	//****************************TestNG Annotations For all Test Cases****************************
 	@BeforeTest
 	public void setUp() throws Exception {
+		System.out.println("I am inside setup method and now calling open browser method");
 		openBrowser();
 		
 		//testngBrowserlaunch(browserName);
