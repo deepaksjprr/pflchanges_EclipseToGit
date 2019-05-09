@@ -28,6 +28,7 @@ public class TS05_lightning extends BaseTest{
 	public void TS05_DataSet_Creation() throws Exception 
 	{
 		//create_setup_program
+		setUp();
 		loginPage.logintoapplication(Constants.username1, Constants.password1);	
 		//salsesforcePage.verify_lightning_page(sflt_lightning_icon);	
 		salsesforcePage.sflt_verify_lightning_page(Constants.sflt_app_launcher, Constants.sflt_lightning_icon);	
