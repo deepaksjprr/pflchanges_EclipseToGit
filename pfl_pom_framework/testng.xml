@@ -6,19 +6,4 @@
       <class name="com.pfl.automation.org62.testcases.TS05_lightning"/>
     </classes>
   </test> <!-- Test -->
-  <test name="TestCase4">
-    <classes>
-      <class name="com.pfl.automation.org62.testcases.TS04_lightning"/>
-    </classes>
-    </test>
-    <test name="TestCase3">
-    <classes>
-      <class name="com.pfl.automation.org62.testcases.TS03_lightning"/>
-    </classes>
-    </test>
-    <test name="TestCase2">
-    <classes>
-      <class name="com.pfl.automation.org62.testcases.TS02_lightning"/>
-    </classes>
-    </test>
 </suite> <!-- Suite -->
