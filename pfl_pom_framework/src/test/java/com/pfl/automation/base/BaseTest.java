@@ -313,7 +313,7 @@ public class BaseTest {
 	}
 
 	public WebDriver openBrowser() throws FileNotFoundException, IOException, DocumentException {
-		callBasicConfigFiles();
+		//callBasicConfigFiles();
 
 		Log.info("Open Browser Successfully");
 		Reporter.log("Open Browser Successfully");
